@@ -4,7 +4,7 @@
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>Javascript</li
+<li>Javascript</li>
 <li>ReactJs</li>
 </ul>
-<img src=''
+<img src='./design/design.png'/>
