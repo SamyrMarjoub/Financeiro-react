@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Financeiro-react/static/css/main.be13633e.css",
+    "main.js": "/Financeiro-react/static/js/main.293ae8ad.js",
+    "static/js/787.a618c441.chunk.js": "/Financeiro-react/static/js/787.a618c441.chunk.js",
+    "static/media/trash.svg": "/Financeiro-react/static/media/trash.b23542dae60628ca20552c9f96e44d56.svg",
+    "static/media/dollar.svg": "/Financeiro-react/static/media/dollar.13672585f5214263bf6f371e4c986680.svg",
+    "static/media/up.svg": "/Financeiro-react/static/media/up.301f0ad683b75e9e7923658c1f11f0f2.svg",
+    "static/media/down.svg": "/Financeiro-react/static/media/down.f16dde91462ed4e46f57842a6db967d6.svg",
+    "index.html": "/Financeiro-react/index.html",
+    "main.be13633e.css.map": "/Financeiro-react/static/css/main.be13633e.css.map",
+    "main.293ae8ad.js.map": "/Financeiro-react/static/js/main.293ae8ad.js.map",
+    "787.a618c441.chunk.js.map": "/Financeiro-react/static/js/787.a618c441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be13633e.css",
+    "static/js/main.293ae8ad.js"
+  ]
+}
