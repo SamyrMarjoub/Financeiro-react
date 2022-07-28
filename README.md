@@ -7,4 +7,5 @@
 <li>Javascript</li>
 <li>ReactJs</li>
 </ul>
+<hr/>
 <img src='./design/design.png'/>
